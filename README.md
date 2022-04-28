@@ -1,7 +1,7 @@
-Zaqqaru:
+Zaqaru:
 
-A Bioengineer
-A Philosopher of Science
+A Bioengineer,
+A Philosopher of Science,
 An aspiring programmer
 
 Call me the Orchestra Man
