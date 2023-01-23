@@ -1,4 +1,4 @@
-Zaqaru:
+Hi! I'm Claudio,
 
 A Bioengineer,
 A Philosopher of Science,
